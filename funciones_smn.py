@@ -8,7 +8,7 @@ meses = {'enero': '01', 'febrero': '02', 'marzo': '03', 'abril': '04', 'mayo': '
 
 def detectar_encoding(ruta_archivo: str) -> str:
     try:
-        with open(ruta_archivo, 'r', encoding:'utf-8') as texto:
+        with open(ruta_archivo, 'r', encoding='utf-8') as texto:
             texto.read()
         return 'utf-8'
     except UnicodeEncodeError:
@@ -168,7 +168,7 @@ def guradado_json(observaciones: dict, ruta_salida: str) -> None:
 
     directorio = os.path.dirname(ruta_salida)
     if directorio and not os.path.exists(directorio):
-        print(f"El directorio '{directorio}' no existe, creándolo..."
+        print(f"El directorio '{directorio}' no existe, creándolo...")
         os.makedirs(directorio, exist_ok=True)
 
     with open(ruta_salida, 'w', encoding = 'utf-8') as t:
@@ -178,4 +178,4 @@ def guradado_json(observaciones: dict, ruta_salida: str) -> None:
 def contar_archivos(directorio: str, extension: str) -> int:
     if not os.path.exists(directorio):
         return 0
-    return len([t for t in os.listdir(directorio) if f.endswith(extension)])
+    return len([t for t in os.listdir(directorio) if t.endswith(extension)])
