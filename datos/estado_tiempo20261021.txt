@@ -1,0 +1,120 @@
+Azul;20-octubre-2026;21:00;Parcialmente nublado;15 km;13.1;No se calcula; 77;Noreste  13;1002.1 / 
+ Bah�a Blanca;20-octubre-2026;21:00;Nublado;15 km;14.8;No se calcula; 70;Noreste  18;1007.6 / 
+ Benito Ju�rez;20-octubre-2026;21:00;Algo nublado;15 km;12.4;No se calcula; 78;Noreste  9;994.1 / 
+ Bol�var;20-octubre-2026;21:00;Nublado;10 km;16.6;No se calcula; 68;Este  9;1006 / 
+ Campo de Mayo;20-octubre-2026;21:00;Parcialmente nublado;10 km;15.8;No se calcula; 83;Este  11;1016.4 / 
+ Coronel Suarez;20-octubre-2026;21:00;Nublado con llovizna;12 km;14.6;No se calcula; 70;Noreste  18;990.1 / 
+ Dolores;20-octubre-2026;20:00;Algo nublado;10 km;12.2;No se calcula; 82;Este  11;1020.5 / 
+ El Palomar;20-octubre-2026;21:00;Nublado;10 km;16.5;No se calcula; 87;Este  16;1017.8 / 
+ Ezeiza;20-octubre-2026;21:00;Parcialmente nublado;10 km;15.4;No se calcula; 76;Este  16;1017.3 / 
+ Jun�n;20-octubre-2026;21:00;Parcialmente nublado;12 km;17.4;No se calcula; 55;Este  14;1007.2 / 
+ La Plata;20-octubre-2026;20:00;Algo nublado;10 km;14.5;No se calcula; 82;Este  14;1017.8 / 
+ Las Flores;20-octubre-2026;15:00;Parcialmente nublado;15 km;19.3;No se calcula; 55;Noreste  22;1014.4 / 
+ Mar del Plata;20-octubre-2026;21:00;Parcialmente nublado;10 km;11.8;No se calcula; 88;Noreste  24;1020.3 / 
+ Mariano Moreno;20-octubre-2026;20:00;Parcialmente nublado;10 km;17;No se calcula; 70;Este  14;1014.9 / 
+ Merlo;20-octubre-2026;21:00;Parcialmente nublado;10 km;16.4;No se calcula; 68;Este  14;1016.6 / 
+ Mor�n;20-octubre-2026;21:00;Parcialmente nublado;10 km;16.5;No se calcula; 73;Este  11;1016 / 
+ Nueve de Julio;20-octubre-2026;21:00;Cubierto;15 km;17.4;No se calcula; 60;Noreste  14;1008.4 / 
+ Olavarr�a;20-octubre-2026;21:00;Parcialmente nublado;15 km;14.9;No se calcula; 61;Noreste  7;998.8 / 
+ Pehuaj�;20-octubre-2026;21:00;Cubierto;15 km;18.2;No se calcula; 64;Noreste  13;1005.8 / 
+ Pigu�;20-octubre-2026;21:00;Nublado;20 km;14;No se calcula; 70;Este  33;980.6 / 
+ Punta Indio B.A.;20-octubre-2026;21:00;Algo nublado;10 km;14;No se calcula; 88;Este  31;1019 / 
+ San Fernando;20-octubre-2026;21:00;Nublado;10 km;17.1;No se calcula; 80;Este  18;1018.2 / 
+ Tandil;20-octubre-2026;21:00;Parcialmente nublado;15 km;12.2;No se calcula; 78;Noreste  22;999.7 / 
+ Trenque Lauquen;20-octubre-2026;21:00;Cubierto;15 km;18.6;No se calcula; 61;Noreste  22;1003.8 / 
+ Tres Arroyos;20-octubre-2026;21:00;Parcialmente nublado;10 km;14.1;No se calcula; 79;Noreste  7;1005.7 / 
+ Villa Gesell;20-octubre-2026;21:00;Algo nublado;10 km;10.3;No se calcula; 86;Norte  11;1022.6 / 
+ Aeroparque Buenos Aires;20-octubre-2026;21:00;Parcialmente nublado;10 km;17;No se calcula; 81;Este  33;1018.8 / 
+ Buenos Aires;20-octubre-2026;21:00;Algo nublado;10 km;17;No se calcula; 77;Sudeste  7;1016.5 / 
+ Catamarca;20-octubre-2026;21:00;Algo nublado;20 km;23.8;No se calcula; 44;Noreste  24;953.4 / 
+ Tinogasta;20-octubre-2026;21:00;Parcialmente nublado;20 km;21;No se calcula; 43;Sur  33;873.9 / 
+ Pcia. Roque Saenz Pe�a;20-octubre-2026;21:00;Cubierto;20 km;23.1;No se calcula; 43;Este  11;1000.2 / 
+ Resistencia;20-octubre-2026;21:00;Cubierto;15 km;22.6;No se calcula; 48;Este  9;1006 / 
+ Comodoro Rivadavia;20-octubre-2026;21:00;Cubierto con llovizna;4.0 km;10.5;No se calcula; 88;Sur  27;1012 / 
+ Esquel;20-octubre-2026;21:00;Parcialmente nublado;30 km;12.7;No se calcula; 80;Sur  7;918.6 / 
+ Paso De Indios;20-octubre-2026;18:00;Nublado con precipitaci�n a la vista;28 km;19.3;No se calcula; 56;Sur  7;952.5 / 
+ Puerto Madryn;20-octubre-2026;21:00;Parcialmente nublado;30 km;14.8;No se calcula; 78;Norte  13;996.6 / 
+ Trelew;20-octubre-2026;21:00;Parcialmente nublado con lluvia en la hora anterior;30 km;15.4;No se calcula; 83;Este  14;1008.1 / 
+ C�rdoba;20-octubre-2026;21:00;Nublado;15 km;15.9;No se calcula; 68;Noreste  16;956.5 / 
+ C�rdoba Observatorio;20-octubre-2026;21:00;Nublado;10 km;18.4;No se calcula; 52;Noreste  11;964.4 / 
+ Esc. Aviaci�n Militar;20-octubre-2026;20:00;Nublado;10 km;18;No se calcula; 54;Noreste  11;955.8 / 
+ Laboulaye;20-octubre-2026;21:00;Cubierto;10 km;19.7;No se calcula; 43;Noreste  24;997.6 / 
+ Marcos Ju�rez;20-octubre-2026;20:00;Parcialmente nublado;20 km;18.5;No se calcula; 56;Este  14;1000 / 
+ Pilar Obs.;20-octubre-2026;21:00;Cubierto;10 km;18.4;No se calcula; 54;Noreste  9;974.2 / 
+ R�o Cuarto;20-octubre-2026;21:00;Algo nublado;15 km;17.3;No se calcula; 47;Norte  27;963.4 / 
+ Villa Dolores;20-octubre-2026;21:00;Parcialmente nublado;30 km;19.4;No se calcula; 47;Noreste  13;944.5 / 
+ Villa Mar�a Del R�o Seco;20-octubre-2026;21:00;Parcialmente nublado;10 km;17.7;No se calcula; 65;Calma;973 / 
+ Corrientes;20-octubre-2026;21:00;Cubierto;10 km;21.6;No se calcula; 52;Este  9;1004.9 / 
+ Ituzaing�;20-octubre-2026;21:00;Parcialmente nublado;15 km;20.8;No se calcula; 80;Este  9;1004.1 / 
+ Mercedes;20-octubre-2026;21:00;Parcialmente nublado;15 km;18.6;No se calcula; 66;Este  11;1001.7 / 
+ Monte Caseros;20-octubre-2026;21:00;Cubierto;20 km;20.6;No se calcula; 45;Este  16;1009.4 / 
+ Paso De Los Libres;20-octubre-2026;21:00;Cubierto;10 km;20.4;No se calcula; 50;Este  24;1007.6 / 
+ Concordia;20-octubre-2026;21:00;Cubierto;15 km;19.8;No se calcula; 47;Este  20;1012.2 / 
+ Gualeguaych�;20-octubre-2026;21:00;Parcialmente nublado;15 km;18.3;No se calcula; 58;Este  9;1014.9 / 
+ Paran�;20-octubre-2026;21:00;Parcialmente nublado;15 km;19.7;No se calcula; 47;Noreste  16;1005.8 / 
+ Formosa;20-octubre-2026;21:00;Nublado;20 km;22.6;No se calcula; 61;Este  11;1004.2 / 
+ Las Lomitas;20-octubre-2026;21:00;Algo nublado;20 km;24;No se calcula; 51;Este  7;994.8 / 
+ Mount Pleasant Airport (Islas Malvinas);20-octubre-2026;21:00;Cubierto;18 km;5.5;0.6; 97;Sur  31;1010.8 / 
+ La Quiaca;20-octubre-2026;20:00;Algo nublado;30 km;17.8;No se calcula; 18;Noroeste  24;671.4 / 
+ Jujuy;20-octubre-2026;21:00;Algo nublado;10 km;14.8;No se calcula; 89;Sur  3;909.6 / 
+ Jujuy Universidad Nacional;20-octubre-2026;21:00;Cubierto;10 km;16.2;No se calcula; 80;Sudeste  3;867.7 / 
+ General Pico;20-octubre-2026;21:00;Nublado;20 km;18.5;No se calcula; 56;Este  18;996.1 / 
+ Victorica;20-octubre-2026;21:00;Nublado;40 km;17.7;No se calcula; 56;Este  9;975.4 / 
+ Santa Rosa;20-octubre-2026;21:00;Cubierto;30 km;17;No se calcula; 61;Noreste  18;991 / 
+ Chamical;20-octubre-2026;21:00;Parcialmente nublado;20 km;24.2;No se calcula; 35;Noreste  33;955.4 / 
+ Chepes;20-octubre-2026;21:00;Algo nublado;15 km;21.4;No se calcula; 45;Noreste  9;934 / 
+ Chilecito;20-octubre-2026;21:00;Algo nublado;20 km;19.2;No se calcula; 63;Sur  7;903.9 / 
+ La Rioja;20-octubre-2026;21:00;Parcialmente nublado;20 km;22;No se calcula; 53;Oeste  7;957.3 / 
+ Malargue;20-octubre-2026;21:00;Cubierto con tormenta;5 km;6.7;5.3; 96;Sudeste  7;855 / 
+ Mendoza;20-octubre-2026;21:00;Parcialmente nublado con rel�mpagos sin truenos;15 km;17.4;No se calcula; 71;Sur  16;927.7 / 
+ Mendoza Observatorio;20-octubre-2026;20:00;Nublado con tormenta en la hora anterior;15 km;15.2;No se calcula; 95;Calma;913.8 / 
+ San Mart�n (Mza);20-octubre-2026;21:00;Parcialmente nublado con tormenta sin precipitaci�n;15 km;16.6;No se calcula; 70;Sur  16;932.2 / 
+ San Rafael;20-octubre-2026;21:00;Cubierto con lluvia;5 km;12.8;No se calcula; 84;Sur  13;925.2 / 
+ Uspallata;20-octubre-2026;18:00;Parcialmente nublado;15 km;17.2;No se calcula; 42;Sur  3;805 / 
+ Bernardo De Irigoyen;20-octubre-2026;21:00;Nublado;20 km;19.6;No se calcula; 68;Calma;923.7 / 
+ Iguaz�;20-octubre-2026;21:00;Parcialmente nublado;20 km;25.5;No se calcula; 30;Sudeste  7;982.1 / 
+ Ober�;20-octubre-2026;15:00;Despejado;20 km;21.2;No se calcula; 80;Noreste  3;980.5 / 
+ Posadas;20-octubre-2026;21:00;Cubierto;20 km;24.1;No se calcula; 45;Este  9;998.9 / 
+ Chapelco;20-octubre-2026;20:00;Nublado;15 km;12;No se calcula; 84;Calma;920.4 / 
+ Neuqu�n;20-octubre-2026;21:00;Nublado;15 km;15.8;No se calcula; 81;Noreste  7;980.5 / 
+ Bariloche;20-octubre-2026;21:00;Parcialmente nublado;10 km;10.8;No se calcula; 88;Direcciones Variables  3;915 / 
+ Cipolletti;20-octubre-2026;21:00;Cubierto;25 km;15.2;No se calcula; 84;Noreste  3;981.6 / 
+ El Bols�n;20-octubre-2026;21:00;Cubierto;30 km;13.7;No se calcula; 90;Calma;972.6 / 
+ Maquinchao;20-octubre-2026;21:00;Nublado con lluvia;40 km;12.2;No se calcula; 93;Noreste  9;911.4 / 
+ San Antonio Oeste;20-octubre-2026;21:00;Nublado con lluvia en la hora anterior;20 km;16.4;No se calcula; 87;Norte  14;1013.3 / 
+ Viedma;20-octubre-2026;21:00;Parcialmente nublado;30 km;15.4;No se calcula; 71;Noreste  16;1014.9 / 
+ Met�n;20-octubre-2026;21:00;Despejado con neblina;15 km;15.8;No se calcula; 93;Calma;913.4 / 
+ Or�n;20-octubre-2026;21:00;Algo nublado;10 km;21;No se calcula; 73;Noroeste  3;968.4 / 
+ Rivadavia;20-octubre-2026;21:00;Cubierto;20 km;27.8;28.5; 53;Calma;984.1 / 
+ Salta;20-octubre-2026;21:00;Algo nublado;15 km;14.8;No se calcula; 83;Noroeste  3;876.6 / 
+ Tartagal;20-octubre-2026;21:00;Nublado;10 km;21.1;No se calcula; 67;Oeste  14;958.8 / 
+ Jachal;20-octubre-2026;21:00;Parcialmente nublado con polvo en suspensi�n;10 km;22.2;No se calcula; 33;Sudoeste  14;875.7 / 
+ San Juan;20-octubre-2026;20:00;Parcialmente nublado;15 km;23.4;No se calcula; 38;Sur  18;937.2 / 
+ San Luis;20-octubre-2026;21:00;Parcialmente nublado con rel�mpagos sin truenos;20 km;21.1;No se calcula; 43;Norte  16;926.6 / 
+ Santa Rosa del Conlara;20-octubre-2026;21:00;Parcialmente nublado;20 km;18.3;No se calcula; 58;Norte  14;938.3 / 
+ Villa Reynolds;20-octubre-2026;21:00;Parcialmente nublado;10 km;18.2;No se calcula; 53;Noreste  29;953.8 / 
+ El Calafate;20-octubre-2026;21:00;Nublado con lluvia;10 km;7;3.8; 88;Este  18;1000.2 / 
+ Gobernador Gregores;20-octubre-2026;21:00;Nublado;45 km;7;2.2; 75;Este  37;980.1 / 
+ Perito Moreno;20-octubre-2026;21:00;Nublado con lluvia;20 km;8.5;5.9; 87;Sudeste  16;967.7 / 
+ Puerto Deseado;20-octubre-2026;21:00;Nublado con neblina;1.5 km;7.4;2.9; 94;Sudeste  33;1007.8 / 
+ R�o Gallegos;20-octubre-2026;21:00;Algo nublado;30 km;7;5.2; 71;Este  9;1023.8 / 
+ San Juli�n;20-octubre-2026;21:00;Nublado con neblina;30 km;7;3.4; 81;Sur  22;1017.2 / 
+ Santa Cruz;20-octubre-2026;21:00;Nublado con precipitaci�n a la vista;20 km;5.7;1.2; 83;Este  27;1011.3 / 
+ Ceres;20-octubre-2026;21:00;Parcialmente nublado;15 km;16;No se calcula; 73;Este  9;1002.1 / 
+ Rafaela;20-octubre-2026;18:00;Parcialmente nublado;10 km;21.3;No se calcula; 46;Noreste  24;1000.5 / 
+ Reconquista;20-octubre-2026;21:00;Parcialmente nublado;15 km;20.8;No se calcula; 66;Este  11;1007 / 
+ Rosario;20-octubre-2026;21:00;Parcialmente nublado;15 km;20.3;No se calcula; 54;Noreste  13;1012 / 
+ Santa Fe;20-octubre-2026;21:00;Cubierto;12 km;20.7;No se calcula; 51;Este  16;1012.4 / 
+ Sunchales;20-octubre-2026;21:00;Nublado;15 km;19;No se calcula; 61;Este  9;1002.5 / 
+ Venado Tuerto;20-octubre-2026;21:00;Parcialmente nublado;10 km;17.5;No se calcula; 62;Este  18;1001 / 
+ Termas de Rio Hondo;20-octubre-2026;21:00;Cubierto;12 km;21.4;No se calcula; 70;Noroeste  7;975.8 / 
+ Santiago del Estero;20-octubre-2026;21:00;Parcialmente nublado;10 km;26.8;27.0; 46;Noreste  7;985 / 
+ R�o Grande B.A.;20-octubre-2026;21:00;Parcialmente nublado con precipitaci�n a la vista;15 km;5.3;2.5; 77;Norte  13;1024 / 
+ Ushuaia;20-octubre-2026;21:00;Algo nublado;30 km;6.1;5.1; 69;Noreste  5;1019.4 / 
+ Tucum�n;20-octubre-2026;21:00;Cubierto con humo;9 km;18.5;No se calcula; 79;Norte  9;958.1 / 
+ Base Belgrano II;20-octubre-2026;21:00;Nublado;20 km;-14.8;-23.5; 65;Sudeste  18;950.6 / 
+ Base Esperanza;20-octubre-2026;18:00;Parcialmente nublado;10 km;2.9;1.5; 57;Norte  5;995.3 / 
+ Base Carlini;20-octubre-2026;21:00;Cubierto con neblina;6 km;0.3;-8.6; 91;Oeste  64;1003.4 / 
+ Base Marambio;20-octubre-2026;21:00;Nublado;15 km;-1.6;-7.6; 62;Noroeste  22;969.8 / 
+ Base Orcadas;20-octubre-2026;18:00;Cubierto;20 km;1.6;-2.7; 74;Noroeste  16;998.1 / 
+ Base San Mart�n;20-octubre-2026;21:00;Cubierto con lluvia y nevada;4.0 km;1.3;-3.9; 79;Norte  22;989.8 / 
