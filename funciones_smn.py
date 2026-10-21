@@ -46,14 +46,14 @@ def separar_viento(campo_viento: str) -> tuple:
     return (direccion, velocidad)
 
 
-def leer_observaciones(ruta: str) -> dict:
+def leer_observaciones(ruta: str, encoding: str = 'utf-8') -> dict:
     """Lee el archivo de observaciones del SMN y devuelve un diccionario
     {ciudad: datos}, con los nombres de ciudad limpios y el campo de viento
     ya separado en dirección y velocidad."""
 
     observaciones = {}
     
-    with open(ruta, 'r', encoding='latin-1') as texto:
+    with open(ruta, 'r', encoding=encoding) as texto:
         for linea in texto:
             linea = linea.strip()
             if not linea:
