@@ -56,7 +56,7 @@ def main():
             print(f'Cantidad de ciudades que contiene el archivo: {total}')
             print(f'Cantidad de ciudades informadas: {completas}')
         
-        except: Exception as e:
+        except Exception as e:
             print(f'Error al leer el archivo JSON: {e}')
             sys.exit(1)
     
