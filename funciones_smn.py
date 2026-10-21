@@ -156,7 +156,7 @@ def datos_faltantes_por_campo(observaciones: dict) -> dict:
     return faltantes
 
 
-def guradado_json(observaciones: dict, ruta_salida: str) -> None:
+def guardar_json_smn(observaciones: dict, ruta_salida: str) -> None:
     
     datos_json = {}
 
