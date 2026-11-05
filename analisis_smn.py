@@ -5,6 +5,7 @@ from funciones_smn import(
     cantidad_ciudades,
     cantidad_ciudades_completas,
     contar_archivos,
+    datos_faltantes_por_campo,
     detectar_encoding,
     guardar_json_smn,
     leer_observaciones,
@@ -25,15 +26,18 @@ def main():
         sys.exit(0)
 
     ruta_archivo = argumentos[0]
-    if not os.path.exists(ruta_archivo):
-        print(f"Error: el archivo '{ruta_archivo}' no existe.")
-        sys.exit(1)
+    
     if ruta_archivo.endswith('.txt'):
         print('Archivo del SMN, detectando codificación...')
-        encoding = detectar_encoding(ruta_archivo)
+        try:
+            encoding = detectar_encoding(ruta_archivo)
+        except FileNotFoundError:
+            print(f"Error: el archivo '{ruta_archivo}' no existe.")
+            sys.exit(1)
+    
         print(f'Codificación detectada: {encoding}. Leyendo datos...')
-
         observaciones = leer_observaciones(ruta_archivo, encoding)
+
         nombre_base = os.path.basename(ruta_archivo)
         nombre_json = os.path.splitext(nombre_base)[0] + '.json'
         ruta_json = os.path.join('obs_json', nombre_json)
@@ -46,7 +50,19 @@ def main():
         print(f'Cantidad de ciudades que contiene el archivo: {total}')
         print(f'Cantidad de ciudades informadas: {completas}')
 
+        print('\nDATOS FALTANTES POR CAMPO Y ESTACIONES:')
+        faltantes = datos_faltantes_por_campo(observaciones)
+        for campo, estaciones in faltantes.items():
+            cantidad = len(estaciones)
+            nombres_estaciones = ', '.join(estaciones) if estaciones else 'Ninguna'
+            print(f'- {campo}: {cantidad} faltantes -> Estaciones: {nombres_estaciones}')
+
     elif ruta_archivo.endswith('.json'):
+        if not os.path.exists(ruta_archivo):
+            print(f"El archivo '{ruta_archivo}' no existe.")
+            sys.exit(1)
+
+        print(f"Leyendo archivo JSON '{ruta_archivo}'...")
         try:
             with open(ruta_archivo, 'r', encoding='utf-8') as t:
                 observaciones = json.load(t)
@@ -63,5 +79,6 @@ def main():
     else:
         print('Error: Formato de archivo no soportado. Ingrese un archivo .txt o .json.')
         sys.exit(1)
+
 if __name__ == '__main__':
     main()
