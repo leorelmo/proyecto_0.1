@@ -7,6 +7,8 @@ meses = {'enero': '01', 'febrero': '02', 'marzo': '03', 'abril': '04', 'mayo': '
 
 
 def detectar_encoding(ruta_archivo: str) -> str:
+    if not os.path.exists(ruta_archivo):
+        raise FileNotFoundError(f"El archivo '{ruta_archivo}' no existe.")
     try:
         with open(ruta_archivo, 'r', encoding='utf-8') as texto:
             texto.read()
@@ -24,7 +26,6 @@ def parsear_fecha_y_hora(fecha_str: str, hora_str: str) -> datetime:
     anio = int(partes_fecha[2])
 
     partes_hora = hora_str.split(':')
-
 
     hora = int(partes_hora[0])
     minuto = int(partes_hora[1])
@@ -146,12 +147,12 @@ def horarios_reportados(observaciones: dict) -> list:
 def datos_faltantes_por_campo(observaciones: dict) -> dict:
     faltantes = {}
 
-    for datos in observaciones.values():
+    for ciudad, datos in observaciones.items():
         for campo, valor in datos.items():
             if campo not in faltantes:
-                faltantes[campo] = 0
+                faltantes[campo] = []
             if valor is None:
-                faltantes[campo] += 1
+                faltantes[campo].append(ciudad)
     
     return faltantes
 
